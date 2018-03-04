@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="app_title">Weather</string>
+    <string name="current">Current Outlook</string>
+    <string name="weekly">Weekly Outlook</string>
+</resources>
