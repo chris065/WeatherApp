@@ -20,7 +20,7 @@ public class fetchWeather
             URL url = new URL(String.format(OWM_API, city));
             HttpURLConnection connection = (HttpURLConnection)url.openConnection();
 
-            connection.addRequestProperty("x-api-key", "0182c0572f5bc6ce85096b560ac93663");
+            connection.addRequestProperty("x-api-key", "INSERT_KEY_HERE");
 
             BufferedReader reader = new BufferedReader(new InputStreamReader(connection.getInputStream()));
 
