@@ -9,7 +9,6 @@
     <string name="about">About</string>
     <string name="weather">Weather</string>
     <string name="desc">Images That help show the different times of the day</string>
-    <string name="open_weather_maps_app_id">0182c0572f5bc6ce85096b560ac93663</string>
     <string name="loc_not_found">Location Not Found!</string>
     <string name="title_activity_weekly_outlook">weeklyOutlook</string>
 </resources>
